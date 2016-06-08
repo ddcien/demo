@@ -1,0 +1,6 @@
+[submodule "contrib/spdlog"]
+	path = contrib/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "contrib/cereal"]
+	path = contrib/cereal
+	url = https://github.com/USCiLab/cereal.git
